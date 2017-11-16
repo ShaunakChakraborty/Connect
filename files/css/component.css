@@ -102,7 +102,7 @@ html, body {
 .large-header {
     width: 100%;
     overflow: hidden;
-    background: #000 url('https://unsplash.it/1600/900/?random') no-repeat;
+    background: #000 url('https://picsum.photos/1600/900/?random') no-repeat;
     background-size: cover;
     background-position: center center;
 }
